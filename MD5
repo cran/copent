@@ -1,0 +1,7 @@
+eaa538573b201c0011aea341c4f1a57f *DESCRIPTION
+dd768e5bac4753559c3a19088e76eaf3 *NAMESPACE
+31b2e413e56f5bfd0822a8c59e187bdb *R/copent.R
+b7612fd7474d096311feb548a4c6b7c6 *man/construct_empirical_copula.Rd
+142563e3638e0def72189d093c33c3e0 *man/copent.Rd
+82ff61d4263a6977a333e39c608ff80a *man/entknn.Rd
+87f56ab21f5873f3f4b91294491ec9f8 *tests/test.R
