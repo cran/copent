@@ -39,4 +39,4 @@ x <- rmnorm(500,c(0,0),sigma)
 xent1 <- entknn(x)
 
 }
-\keyword{entropy; kNN}
+\keyword{entropy}

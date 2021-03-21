@@ -1,7 +1,9 @@
-eaa538573b201c0011aea341c4f1a57f *DESCRIPTION
-dd768e5bac4753559c3a19088e76eaf3 *NAMESPACE
-31b2e413e56f5bfd0822a8c59e187bdb *R/copent.R
-b7612fd7474d096311feb548a4c6b7c6 *man/construct_empirical_copula.Rd
+cae3ca05ed1da563d6e72a62de0c2a57 *DESCRIPTION
+9b84cdfcd00d44a52016edf5b96d5552 *NAMESPACE
+583e88fbdb74af11c00bec6cea0f5020 *R/copent.R
+00da1152ac42c8471f7ae5df69ab4292 *man/ci.Rd
+768e0dac6d561b784d94f6624eb26338 *man/construct_empirical_copula.Rd
 142563e3638e0def72189d093c33c3e0 *man/copent.Rd
-82ff61d4263a6977a333e39c608ff80a *man/entknn.Rd
-87f56ab21f5873f3f4b91294491ec9f8 *tests/test.R
+577fcd00fa3556a6f57f9269c64ac856 *man/entknn.Rd
+e0970141535b65eef7755eb87ae90a09 *man/transent.Rd
+87f56ab21f5873f3f4b91294491ec9f8 *tests/test1copent.R
