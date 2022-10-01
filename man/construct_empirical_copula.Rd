@@ -37,4 +37,4 @@ x <- rmnorm(500,c(0,0),sigma)
 xc1 <- construct_empirical_copula(x)
 
 }
-\keyword{empirical copula}
+\keyword{empirical copula; rank}

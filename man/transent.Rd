@@ -30,13 +30,13 @@ The function returns the value of transfer entropy from \bold{y} to \bold{x} wit
 }
 \references{ 
 
-Ma, Jian. Estimating Transfer Entropy via Copula Entropy. arXiv preprint arXiv:1910.04375 (2019).
+Ma, Jian. Estimating Transfer Entropy via Copula Entropy. arXiv preprint arXiv:1910.04375, 2019.
 
 }
 
 \examples{
 
-library(copent) 
+library(copent)
 num = 300
 x = rnorm(num)
 y = rnorm(num)
